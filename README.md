@@ -1,4 +1,4 @@
-# animation
+# Flutter GAME
 
 A new Flutter project.
 
